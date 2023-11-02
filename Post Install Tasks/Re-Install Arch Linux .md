@@ -33,6 +33,7 @@
 ## Install Additional Applications
 
 - [ ] Use **yay** to install AUR packages.
+- [ ] Install the **[Chaotic-AUR](https://aur.chaotic.cx/)** Repository for access to binaries from AUR.
 - [ ] Use **Flatpak** to install applications, ensuring you reinstall Firefox and import your bookmarks.
 - [ ] Optionally, use **Snap** to install any applications not available in the Arch Linux repositories or AUR.
 
